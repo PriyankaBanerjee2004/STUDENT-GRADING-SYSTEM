@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Wittgenstein:ital,wght@0,400..900;1,400..900&display=swap');
+
+*
+{
+    margin: 0;
+    padding: 1%;
+    box-sizing: border-box;
+    font-family: 'Wittgenstein', sans-serif;
+    background-color: rgb(12, 12, 40);
+    color: beige;
+    align-items: center;
+}
+body
+{
+    background-color: transparent;
+    box-shadow: 50%;
+    border: 5px;
+    border-style: solid;
+    height: 50%;
+    border-color: gainsboro;
+    align-content: center;
+}
+.showdata
+{
+    color: azure;
+    font-size: 1em;
+    font-weight: 2em;
+    font-family: 'Wittgenstein' ,serif ;
+    background-origin: padding-box;
+}

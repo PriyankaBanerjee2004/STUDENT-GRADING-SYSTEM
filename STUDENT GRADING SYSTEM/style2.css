@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Wittgenstein:ital,wght@0,400..900;1,400..900&display=swap');
+
+*
+{
+    margin: 1%;
+    box-sizing: border-box;
+    font-family: 'Wittgenstein' ,serif ;
+    align-items: inherit;
+    background-color: rgb(12, 12, 40);
+    box-shadow: #cc0b3e;
+}
+body
+{
+    margin: 100%;
+    width: 0;
+    display: contents;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(2, 4, 41);
+    color: #edf1ee;
+}
+.container
+{
+    display: -moz-popup;
+    align-items: center;
+    padding: 5%;
+    background: transparent;
+    border: 1px solid #4ea169;
+    box-shadow: #86cd62; 
+}
+input
+{
+    color: rgb(128, 173, 171);
+    font-size: 1em;
+    font-weight: 2em;
+    font-family: 'Wittgenstein' ,serif ;
+}
+
+button
+{
+    align-items: center;
+    color: #86cd62;
+    font-size: 1em;
+    font-weight: 2em;
+    font-family: 'Wittgenstein' ,serif ;
+    padding: 10px;
+    background: transparent;
+    box-shadow: #edf1ee;
+    box-align: center;
+}
